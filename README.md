@@ -1,7 +1,7 @@
-# Fitness Hub
+# Glass Ui Kit
 
 ## Overview
-Workout tracking and wellness dashboard.
+Modern transparent UI component library.
 
 ## Features
 - User-friendly interface
@@ -11,8 +11,8 @@ Workout tracking and wellness dashboard.
 
 ## Installation
 ```bash
-git clone https://github.com/username/fitness-hub.git
-cd fitness-hub
+git clone https://github.com/username/glass-ui-kit.git
+cd glass-ui-kit
 ```
 
 ## Usage
